@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T10:48:54 IST" name="Default suite" finished-at="2023-05-15T10:49:51 IST" duration-ms="56936">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T10:48:54 IST" name="Default test" finished-at="2023-05-15T10:49:51 IST" duration-ms="56936">
+      <class name="testngpackage.Assignment3">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:48:23 IST" name="setup" finished-at="2023-05-15T10:48:54 IST" duration-ms="30998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="launchapp()[pri:0, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:48:54 IST" name="launchapp" finished-at="2023-05-15T10:48:55 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="test01()[pri:1, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:48:55 IST" name="test01" finished-at="2023-05-15T10:49:21 IST" duration-ms="25662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:2, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:49:21 IST" name="test02" finished-at="2023-05-15T10:49:38 IST" duration-ms="16976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test03()[pri:3, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:49:38 IST" name="test03" finished-at="2023-05-15T10:49:51 IST" duration-ms="13428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method is-config="true" signature="windup()[pri:0, instance:testngpackage.Assignment3@71ba6d4e]" started-at="2023-05-15T10:49:51 IST" name="windup" finished-at="2023-05-15T10:49:51 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windup -->
+      </class> <!-- testngpackage.Assignment3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
